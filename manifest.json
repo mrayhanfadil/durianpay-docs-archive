@@ -1,0 +1,1599 @@
+{
+  "source": "https://docs.durianpay.id",
+  "sitemap_url": "https://docs.durianpay.id/llms.txt",
+  "retrieved_at_utc": "2026-10-14T10:07:24.093989+00:00",
+  "pages_discovered": 147,
+  "pages_saved": 147,
+  "page_failures": [],
+  "pages": [
+    {
+      "url": "https://docs.durianpay.id/docs/aspi-website-urls.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4007,
+      "path": "content/docs/aspi-website-urls.md",
+      "sha256": "d71b65795370261e141807fe5e7dd85131d6318129d3d3636b7365b3d914f082"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/bi-snap.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2009,
+      "path": "content/docs/bi-snap.md",
+      "sha256": "4117333b87635d93512c4eefd307fa52a86179cd422c7c8a7f22fa3deefa9537"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/bnpl.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1189,
+      "path": "content/docs/bnpl.md",
+      "sha256": "735028d76a93bc076106b9fc152e76ac4ce4ce1687b160612b63760998a3c5cd"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/cancelling-a-payment.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2154,
+      "path": "content/docs/cancelling-a-payment.md",
+      "sha256": "988bc63d264b3e3fbd16cc4067442cb9bd69cb4054ffe9703ed30fba8042744a"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/cards.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2166,
+      "path": "content/docs/cards.md",
+      "sha256": "f8b79183e06f181c4ba81a4a8f4ce32eed395f45848edad5eaef19f00c4dce0b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/check-payments-status.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2934,
+      "path": "content/docs/check-payments-status.md",
+      "sha256": "fd1c9ffd1fa52b8dd4e1e9072b37875f5ad7e39fee54dfab2a98a404a57e74a1"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/checking-recipients.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5022,
+      "path": "content/docs/checking-recipients.md",
+      "sha256": "88533934b77620ce9ee91d8150d1eccdc205d7f44ef7639f9777111a45caa7bf"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/checkout-page-implementation.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 13114,
+      "path": "content/docs/checkout-page-implementation.md",
+      "sha256": "b23cc6693fd1175d5c140a6b8bed502c28584b1e973f12906b1c6ca335bd32b8"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/create-payment-link-via-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 6744,
+      "path": "content/docs/create-payment-link-via-api.md",
+      "sha256": "f708ef44b533d147ac491367da9101f02a402b158154b919bc4aea8a01fb4edd"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/creation-via-dashboard.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3029,
+      "path": "content/docs/creation-via-dashboard.md",
+      "sha256": "50c050b7e490edf698d28e1116d358f055a7a7471bba012cec2946f41378967e"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/difference-between-aggregator-and-direct-model.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1753,
+      "path": "content/docs/difference-between-aggregator-and-direct-model.md",
+      "sha256": "66fb764f685c9290aa2b0da4a17f5dd13293f9bbcb7225c698b97f05c04e1281"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/disbursement-apis-implementation.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 16691,
+      "path": "content/docs/disbursement-apis-implementation.md",
+      "sha256": "c998c55b5ff77f28cceab44a000473c7db0914d0f9670db6c2ddb07dacc58ee3"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/durian-apis.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 932,
+      "path": "content/docs/durian-apis.md",
+      "sha256": "cdc09558c1cda591f1d08a04ddf55c2d20f2cd6863d21c5518d10b3e5b8f3a29"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/durian-checkout.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1498,
+      "path": "content/docs/durian-checkout.md",
+      "sha256": "264d9ed003e68c1707615b1b1ec0cfc2dc50efed6a8350ee18aecc362a9ef8e4"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/dynamic-routing.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1884,
+      "path": "content/docs/dynamic-routing.md",
+      "sha256": "98e00c9fd4e8c4fe98f845973b80b5d4ea6b319a4ee44e37f36f3453f80e5139"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/e-wallet.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1468,
+      "path": "content/docs/e-wallet.md",
+      "sha256": "db40781a2d4e4186b5be4b99b1a9475d19421100272097e4ed2618f850857a1a"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/faster-settlements.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5442,
+      "path": "content/docs/faster-settlements.md",
+      "sha256": "689c0cfc18cdd9496733cf30c3548a0bc92e8185657c9b60a4f65755e745f146"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/feature-and-use-cases.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2321,
+      "path": "content/docs/feature-and-use-cases.md",
+      "sha256": "77178c524531c71dab25299d67c68116d7ce8b65e9df3faf9a7789e031c8f728"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/generate-receipt.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1104,
+      "path": "content/docs/generate-receipt.md",
+      "sha256": "476cdc814a387fba12c7c596f37877565640c8e2bad9dda634066aee9a91f6c3"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/get-started.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1691,
+      "path": "content/docs/get-started.md",
+      "sha256": "c024ecc4b9dd10fad06dace269189d33a4fc429aca25834f13b83c0cf86ab1fe"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/go-live-with-snap.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11594,
+      "path": "content/docs/go-live-with-snap.md",
+      "sha256": "9d06464dad544fbb7192bf16cc0d122b94c23ce45e57c0a0e1d352daa51117bc"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/handling-errors-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 778,
+      "path": "content/docs/handling-errors-1.md",
+      "sha256": "9232403fe42b2f146aee50b9523061f0c8cc619606bc60676a01d8e490277b39"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/handling-processing-transactions.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2053,
+      "path": "content/docs/handling-processing-transactions.md",
+      "sha256": "98dba29601bffda760b7ae13de0370efb4d28e2a9ca9c218f914ec05b9eb5bb8"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/handling-reversals-processing-transactions.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11434,
+      "path": "content/docs/handling-reversals-processing-transactions.md",
+      "sha256": "503a7664c046be221e34978a9a2be0e5908f0a437ed9712388e3586ead1a8935"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/handling-webhooks.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 10738,
+      "path": "content/docs/handling-webhooks.md",
+      "sha256": "fcf4e7995ba934972b79376540b4a1c068f1f1f76f70293efaf63d4199173d03"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/idempotent-request-implementation-guide.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3906,
+      "path": "content/docs/idempotent-request-implementation-guide.md",
+      "sha256": "711204d80e25451cac8861ccba38b240f62096924d04de771e7d652f918d865b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/integration-walkthrough.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1758,
+      "path": "content/docs/integration-walkthrough.md",
+      "sha256": "7e9de222b7c3b77bbc2c3e1b2b810067be7f31f59620ae8eabb55fd6d1054fae"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/integrations.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3001,
+      "path": "content/docs/integrations.md",
+      "sha256": "921aacbfff43364beceff444b9c7b8b2476151ddbc3ca89f18a87c97e3182216"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/internet-banking.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 798,
+      "path": "content/docs/internet-banking.md",
+      "sha256": "1fe047566d55e28694e0c10bae8d34b77d0f89ed8825253eba0dc8e39b32ec4c"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/ip-whitelisting.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1305,
+      "path": "content/docs/ip-whitelisting.md",
+      "sha256": "e29605a00e1f49dccb218232cc6e08fe5a2bffe5b2dede18c4b1e3af52b7f51b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/limitations.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1478,
+      "path": "content/docs/limitations.md",
+      "sha256": "72f2834944c3b1eedc81e05704401a07e6789e6e300d52d04ae44b15784c552b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/no-code-pay-outs.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1136,
+      "path": "content/docs/no-code-pay-outs.md",
+      "sha256": "69412ced2ae6ad37107afce73f6c97e874089d6df8e3fe6e0a89f40a01ca7a39"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/no-code-solutions-payment-link.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1576,
+      "path": "content/docs/no-code-solutions-payment-link.md",
+      "sha256": "ef6c64b713f9031e1d391513c5870714de6f6a250f19e75542b48e704185ab1e"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/overview-integration-types.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5071,
+      "path": "content/docs/overview-integration-types.md",
+      "sha256": "5396112fe2734b2f0752c419cf7bc19efde354cbbafb7e7bd2af6a741364ddca"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/overview.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2260,
+      "path": "content/docs/overview.md",
+      "sha256": "1df037952af5bd49338b76fe91fa55326ed515ffed819117b6832398302b9c8f"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/pay-out-legacy-api-prerequisite.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 761,
+      "path": "content/docs/pay-out-legacy-api-prerequisite.md",
+      "sha256": "576e9738af051d07708a77c6103ab88cb25750c7c6fb0b2d3466cc8a08d2e8d8"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-api-integration-steps.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11220,
+      "path": "content/docs/payment-api-integration-steps.md",
+      "sha256": "73c6ba4386fe876d41904e9c95b2c83ac287c36823de32ba7200d1fe99aaca76"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-flow-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 625,
+      "path": "content/docs/payment-flow-1.md",
+      "sha256": "c4ff590283ac8a723a5272f1c7417d1da929cc55c42aaf6ad6698bb7c44ddecc"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-flow-2.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 398,
+      "path": "content/docs/payment-flow-2.md",
+      "sha256": "e9886ca2051ef587d9482c106a393dacfa8cdc37b0e461dca13679e86c3bde57"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-flow-3.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 444,
+      "path": "content/docs/payment-flow-3.md",
+      "sha256": "6760ddfb68d0cb85b93c0ac5fae9ae73d2665d2681607eff04db1f57c1771266"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-flow-4.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 458,
+      "path": "content/docs/payment-flow-4.md",
+      "sha256": "e619fdc9614569f68c7cd48bb336fc544bcc5d5b0a9a5b333ddb98cc9c835c93"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-flow-5.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 479,
+      "path": "content/docs/payment-flow-5.md",
+      "sha256": "360f87b48966ff6c9eb0e20e821ea39aa6a003307e5a727d1abe8777e6945b38"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-flow.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2286,
+      "path": "content/docs/payment-flow.md",
+      "sha256": "032794ba99129e4549bf748854b15bea618539581328e767cfaa78d74ae78cb9"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payment-methods.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3811,
+      "path": "content/docs/payment-methods.md",
+      "sha256": "1a1534c03af7d3a4c5bb0f5c4a91abce7fc1e879aad6aa5084c8b5609c8210d3"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/payout-integration-steps.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3848,
+      "path": "content/docs/payout-integration-steps.md",
+      "sha256": "61f0a078d4ee39c4a7c334af2f4284930c8e368609f6c312ede286978683037f"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/plugin-woocommerce.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2863,
+      "path": "content/docs/plugin-woocommerce.md",
+      "sha256": "59b8cc6c8396ba1fdb31cd9a8974c086979f9e461e1d9b664221081b59f0b240"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/preparation-configuration.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2867,
+      "path": "content/docs/preparation-configuration.md",
+      "sha256": "611b01c2af3a7bc47ac606db6c11652fc30eb809fc984545a6d81ba1c8e88026"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/preparation-prerequisite-for-snap-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 32229,
+      "path": "content/docs/preparation-prerequisite-for-snap-1.md",
+      "sha256": "149d6c2a9370867df48cabdc526437892de83243f1cb5d692a70521147ca6bd2"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/preparation-prerequisite-for-snap.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 32675,
+      "path": "content/docs/preparation-prerequisite-for-snap.md",
+      "sha256": "8689e543e7835dae8f07bbf3a7e96dd7880712f7dc20841dd03c2b8163ac8f32"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/preparing-your-fund-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 519,
+      "path": "content/docs/preparing-your-fund-1.md",
+      "sha256": "e37f55899d52dd8eee9b44da772af0dd271ab7241ef1a7746b2db212b601ce1b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/preparing-your-fund.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2855,
+      "path": "content/docs/preparing-your-fund.md",
+      "sha256": "cbab280ab8cb9f89878d1d0c0b19b4cf82b6656f6c4bc3063860830b4716cd46"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/preventing-double-pay-outs.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1063,
+      "path": "content/docs/preventing-double-pay-outs.md",
+      "sha256": "f718f64041a8139c23dad538bff7f5276cb3d13f5ba811071dc064ace5d3d09c"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/qris.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1057,
+      "path": "content/docs/qris.md",
+      "sha256": "9272e5c5d4c7e5fb9f488e21f10e64423ec9a819b3c656bec42796232d74030c"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/reconciliation.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4676,
+      "path": "content/docs/reconciliation.md",
+      "sha256": "e4c47f1cf2c41acf8cf7ed4c28598670cb7ce56e49dd839b8d47f57a01acf8bd"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/refund-apis.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1971,
+      "path": "content/docs/refund-apis.md",
+      "sha256": "9a9fad3df3ae6fd2cb1758d75d0d013f4beebd087e3fb957eefc06acd1df7439"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/refund-integration-walkthrough.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3010,
+      "path": "content/docs/refund-integration-walkthrough.md",
+      "sha256": "15658615e8f1b01c2f74ef501ef7605beea4db4accf6d5ba8db1639a1cd3da15"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/refund-limitations.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2404,
+      "path": "content/docs/refund-limitations.md",
+      "sha256": "9caf693dbd83dfe9ad74bff94e8200368c2be742a808033ed6168dd6a33ef953"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/reports-reconciliations.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1813,
+      "path": "content/docs/reports-reconciliations.md",
+      "sha256": "5ba1510133b7901878ce44dabd11ab08484cdeb5c7fdb93ec831eb0629aba503"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/retail-store.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1115,
+      "path": "content/docs/retail-store.md",
+      "sha256": "00d277314750da160caa300af2cd2db980e799f89896361287a7ca59e10f8b7b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/send-notification-to-recipient.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 724,
+      "path": "content/docs/send-notification-to-recipient.md",
+      "sha256": "20a7939021ec8286544fd281ef6a2e1c5c8b76b1ceb888a5f9c8735fbc6f4e8d"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/settlement-service-level-agreements.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2690,
+      "path": "content/docs/settlement-service-level-agreements.md",
+      "sha256": "02f032a73a8201a1dff776740213b2a400f05f0a04a53eb75ff1d6114a311993"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/settlements.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3598,
+      "path": "content/docs/settlements.md",
+      "sha256": "1e87c02069963522f878cdba05a34cc3c3fd55a36c31ccbef5c1448c2f3f4993"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/simulating-test-payments.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2207,
+      "path": "content/docs/simulating-test-payments.md",
+      "sha256": "33c92d1d92853186ee304ff6d53b0344562de3f785d10683b7cf3620c381d1a6"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/simulating-your-test-pay-outs.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4268,
+      "path": "content/docs/simulating-your-test-pay-outs.md",
+      "sha256": "57c895f5d280bd214e4134b97d01ac2e8032a55a2907af661a0f1c88f3bdf5ee"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/snap-disbursement-api-implementation.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 65148,
+      "path": "content/docs/snap-disbursement-api-implementation.md",
+      "sha256": "a4628bf37404b306dba43986e7dbe5fa92821f8c2d237b744913b886d5df2cfc"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/snap-preparation-prerequisite.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 32261,
+      "path": "content/docs/snap-preparation-prerequisite.md",
+      "sha256": "95447eea5dbe069040b436cc22396c10594a35b18bb297756351ddc51f75c40a"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/snap-qris-notify-callback-handling.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 9886,
+      "path": "content/docs/snap-qris-notify-callback-handling.md",
+      "sha256": "14196d257e51d7162ae03c15f1940d06b41031e8414088c3886038e1fa3fe651"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/snap-virtual-account-notify-callback-handling.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11874,
+      "path": "content/docs/snap-virtual-account-notify-callback-handling.md",
+      "sha256": "5548d1e7d44220354837f288cd866e7fdfd555aacef03b53bb0290a05c8a98cc"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/subaccount-feature.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1427,
+      "path": "content/docs/subaccount-feature.md",
+      "sha256": "4656fb84f24fd3b78c6003868860de6b3e82417526266aa327b08a52ef0c147b"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/subaccount-types.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2873,
+      "path": "content/docs/subaccount-types.md",
+      "sha256": "fcddeca0451cccaf4740c1a5d809ec04e1f60114033bda495d6e87e64f4ace66"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/supported-banks-limits.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 10307,
+      "path": "content/docs/supported-banks-limits.md",
+      "sha256": "2ab4f7a52c78ca836b6982b1666dab0e4afdab72a62773e188e51cb5e6fec802"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/test-go-live-with-snap.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 10946,
+      "path": "content/docs/test-go-live-with-snap.md",
+      "sha256": "76c097e7e7bb035071e2922fdffdd46f53eb83400bfc7e18b31e3e0e8d2675d4"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/transacting-via-dashboard.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 8236,
+      "path": "content/docs/transacting-via-dashboard.md",
+      "sha256": "520404d8f9584f1f631c6fa348458d75669b0794134254424b355ade047f6bdf"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/uat-form.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2725,
+      "path": "content/docs/uat-form.md",
+      "sha256": "6a33306ef5911c8439b750b5c6b64083ed1dee67cf05edf4e321919f0db609b1"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/use-cases-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 635,
+      "path": "content/docs/use-cases-1.md",
+      "sha256": "3c46a01b1a956dd09ecdf85dc5862e49e7af42193088a57b176fe217c9b099e6"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/virtual-account-2.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1331,
+      "path": "content/docs/virtual-account-2.md",
+      "sha256": "4f1a9d006a023841f23fb4d763e83ba32c04380484cd96bb3ef2851cc6c073a2"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/webhooks-events.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 12959,
+      "path": "content/docs/webhooks-events.md",
+      "sha256": "c86f8160ebdb664a07167e76b6182734361a04339442ad8b8c4e7989a4f2d9a9"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/website-checklist.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3276,
+      "path": "content/docs/website-checklist.md",
+      "sha256": "b25374b061611d4326c6c1f5741c93f07f66419300dc200389b47781ccedd00d"
+    },
+    {
+      "url": "https://docs.durianpay.id/docs/welcome-to-durianpay.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1933,
+      "path": "content/docs/welcome-to-durianpay.md",
+      "sha256": "a747ef4d74c4a721bd93ed9980a8debb04640c58f1fcb640ee62068f43f11f59"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/access-token-b2b.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11955,
+      "path": "content/reference/access-token-b2b.md",
+      "sha256": "93e0e90befd732b690fbc1d901a4cad060fd616fa9245e7fd5e53bfb2d987da2"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/authentication.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 25991,
+      "path": "content/reference/authentication.md",
+      "sha256": "c787baff340d8afa5105b99b8111f08c9fb5df2eb8bbad475e34648c4b051c30"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/balance-inquiry-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 19983,
+      "path": "content/reference/balance-inquiry-api.md",
+      "sha256": "d964187a0b22029dd6f0a06e100621894d1c25aead35ab3d6b2019da088deded"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/bank-account-inquiry-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 23098,
+      "path": "content/reference/bank-account-inquiry-api.md",
+      "sha256": "df7e1f73b7ef3fc196efad16756b1e022847ede5acc22903a815336eedb14075"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/bank-transfer-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 47309,
+      "path": "content/reference/bank-transfer-api.md",
+      "sha256": "100e7b801adeeb836ed0d5e1d2764a86b55a43eee1a7d6d8c9aeff16c98ede3d"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/bank-transfer-status-inquiry-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 22440,
+      "path": "content/reference/bank-transfer-status-inquiry-api.md",
+      "sha256": "f823ac8b0feeb6156fe18e0d5b3a671965337f552e2d947dcb41068a93bee7d4"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/bind-e-wallet-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5060,
+      "path": "content/reference/bind-e-wallet-account.md",
+      "sha256": "776a9a1039db26a79e68fb9ebd5a57439f0c90d01c89e8e8e37f3a0e90fdb1dd"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/cancel-ewallet-payment.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 23956,
+      "path": "content/reference/cancel-ewallet-payment.md",
+      "sha256": "f54e825c51997bdcd71fa27fdd4cb3ee787239652577b8231cabab270ab4b2a6"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/cancel-payment-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5664,
+      "path": "content/reference/cancel-payment-api.md",
+      "sha256": "3a5dfecb10c1dd6f493534e75e08a20361127f2027fdcf4359a7c17dd5bf1805"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/cancel-qris.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 24056,
+      "path": "content/reference/cancel-qris.md",
+      "sha256": "c1af838f9e3361da24d2f29df1b8c74e1891e2164908076bb25a310eea48c295"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/cancelsubscription.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 7350,
+      "path": "content/reference/cancelsubscription.md",
+      "sha256": "af2f1590b385e5dbbbdcdde0eba32a6810ae93f52da3efad98a1a1fb0c4b9b0c"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/chargesubscription.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 9835,
+      "path": "content/reference/chargesubscription.md",
+      "sha256": "9660109e7338d09ccc84a39c0c1a8cdbc6533157b5c5b128972b3d8aab9a4588"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/check-payment-status.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4380,
+      "path": "content/reference/check-payment-status.md",
+      "sha256": "d12a219e4a22eabb5decf808697e971e6640838aea25514befc47864f837962b"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/create-ewallet-payment.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 27354,
+      "path": "content/reference/create-ewallet-payment.md",
+      "sha256": "57208457d0c4d207653677af43be1975922380aed8920b18ae6a392ff0d75e18"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/create-order.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 16854,
+      "path": "content/reference/create-order.md",
+      "sha256": "9d91a562444d53ff173627af70269c08000f69416e86cbee39bc0a7348be6738"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/create-refund.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 8209,
+      "path": "content/reference/create-refund.md",
+      "sha256": "71c0330e23b8bca43b354c8c13c30cf9ca4a7d75c61b69ff0c395ea9d68dba5d"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/create-virtual-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 12513,
+      "path": "content/reference/create-virtual-account.md",
+      "sha256": "9b766003a5fdeb080600719c0058eeedc5b07182c7e16b9a18d63ad3ebefbce9"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/createsubscription.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 16698,
+      "path": "content/reference/createsubscription.md",
+      "sha256": "0705dfdb8e982c4fb5c3e596ee31f478a64f270b3c4ae212eebbb5c9ae8c7c86"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/disbursement.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1134,
+      "path": "content/reference/disbursement.md",
+      "sha256": "44533a81d45ad3927162de2d3aafdf1721eae76a60bbada504c9a1567bcda137"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/ewallet-account-inquiry-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 25673,
+      "path": "content/reference/ewallet-account-inquiry-api.md",
+      "sha256": "59839167ffc65cc017ceeffa6c51b67ee4afd048ed42ab3a8a0b3b3c407a0623"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/ewallet-notif.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 16178,
+      "path": "content/reference/ewallet-notif.md",
+      "sha256": "aa87759b57a48ca37c416adaa65ea3d1333e419d168beb9a239dd1b3b90d90fd"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/ewallet-transfer-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 31596,
+      "path": "content/reference/ewallet-transfer-api.md",
+      "sha256": "13e1c34d416dcba597cbe056b4b57c9fd472a8c3fc96a86b0e09b9322cbf25c7"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/ewallet-transfer-status-inquiry-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 21801,
+      "path": "content/reference/ewallet-transfer-status-inquiry-api.md",
+      "sha256": "e07083607a24eaba930b5dd98187b8abea8e496c23a18729abeb29299550032e"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-e-wallet-account-details.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2254,
+      "path": "content/reference/fetch-e-wallet-account-details.md",
+      "sha256": "b7569eafa3bfe3f93fd3ae77bf2a3d3767e031dbc537f2ec350dfa4f5b9b29f8"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-order-by-id.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4834,
+      "path": "content/reference/fetch-order-by-id.md",
+      "sha256": "40b0db49affdc93dc64021e0c4d23a3447c1ec52f53bc247f859646992552b7f"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-order.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 12504,
+      "path": "content/reference/fetch-order.md",
+      "sha256": "c9b32d6d91b205a103eb5cda37870cba358686acb40c614759b46da3fa536534"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-payment-by-id.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 8610,
+      "path": "content/reference/fetch-payment-by-id.md",
+      "sha256": "741a47743bf48de09eb3b3d2d44e77be34228c5ce18d0c552f5f3a80597d78d8"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-sub-account-fees.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4823,
+      "path": "content/reference/fetch-sub-account-fees.md",
+      "sha256": "361d59434104bed0fac0f8e0e3c5f1e7d9aa9b416c5a4302d1391e042922d32f"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-subaccount-balance.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4782,
+      "path": "content/reference/fetch-subaccount-balance.md",
+      "sha256": "a46a6145e10679bca91f08ba25826a3913c50f183795a44e784b5fbd6895555a"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-subaccount.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5113,
+      "path": "content/reference/fetch-subaccount.md",
+      "sha256": "8c7a9e36e5c70d1f70d05202061abc202382928bf424ff7d9f3147ff60117183"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-virtual-account-by-id.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 16886,
+      "path": "content/reference/fetch-virtual-account-by-id.md",
+      "sha256": "95878544c85e43551a17998fac3ed19f27d94dda7337a7e29308443e97ab73c2"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/fetch-virtual-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11491,
+      "path": "content/reference/fetch-virtual-account.md",
+      "sha256": "a07d091854030279be250b38728976482420797c9a882d1ebf38247751512735"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/generate-qris.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 26029,
+      "path": "content/reference/generate-qris.md",
+      "sha256": "27fb18d1af5ecd802d26960c968f97a3f31086c162c09978ad6462a8c7572567"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/get-refund-by-payment-id.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5186,
+      "path": "content/reference/get-refund-by-payment-id.md",
+      "sha256": "a4243f322358eac33d36138df5fcf876e94327e7c96cbbfa40316f15325071cd"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/inquiry-ewallet-status.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 27422,
+      "path": "content/reference/inquiry-ewallet-status.md",
+      "sha256": "f618159ad4c4669f99d893db16896183aa56adc3b70a874a94c68167bc71845e"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/inquiry-qris.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 27312,
+      "path": "content/reference/inquiry-qris.md",
+      "sha256": "3019f8efb036d29801495f6b2c742ae332d482fb189e3492c60ee46b7e216402"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/inquiry-virtual-account-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 30208,
+      "path": "content/reference/inquiry-virtual-account-1.md",
+      "sha256": "aba126301dde2460ef5c77196e9c89913503b531b3da6a5bd3c24b9e5de627ed"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/introduction.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5319,
+      "path": "content/reference/introduction.md",
+      "sha256": "ac0b8ebe1d55800f474e56137f56855cce2f01227623adf50fec23e8aa8d6273"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/listsubscriptioncharges.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 9870,
+      "path": "content/reference/listsubscriptioncharges.md",
+      "sha256": "1c47c9754758c45979fc68bfe526a47257a4bc2e143c68d5e92eff185e5453bb"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/listsubscriptions.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 8642,
+      "path": "content/reference/listsubscriptions.md",
+      "sha256": "26f85df325cf0f6b8d877dbce9d80fb22735052ddcd67f45b63498d3cf5e5787"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/order-object.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1866,
+      "path": "content/reference/order-object.md",
+      "sha256": "b88e060139297c99094df1565ef343bbd385ad4e170736c9dc0f0cd77767eb4a"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-bnpl.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3368,
+      "path": "content/reference/payment-charge-bnpl.md",
+      "sha256": "da25a4dbfd59184cbeb352baf11e5b0789b4bcfbc164d6ddd022093de862b3f5"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-card.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5802,
+      "path": "content/reference/payment-charge-card.md",
+      "sha256": "ecc1625b69843abf2bdd027088aeab1810c07f9a0e4c154c73447e0ec43cb47b"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-ewallet.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 6478,
+      "path": "content/reference/payment-charge-ewallet.md",
+      "sha256": "5ccf42f873cbda279290175819ab86af5d42d4cf2601fdd72dca898f4085d843"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-online-banking.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 7747,
+      "path": "content/reference/payment-charge-online-banking.md",
+      "sha256": "ac0f2216ed2191356557134b69855a30a54da62d6cb09cb7221c78688fa5de9c"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-qris.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 6043,
+      "path": "content/reference/payment-charge-qris.md",
+      "sha256": "1f94bab5fd470dffef37c631233524023c860b59c860e5fc52bedc05c7ae73ed"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-retail-store.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5055,
+      "path": "content/reference/payment-charge-retail-store.md",
+      "sha256": "0b6927d03f64f4d79ee0abfe24a7c705203446170be647f0fbd030b83e189990"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-charge-virtual-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 8378,
+      "path": "content/reference/payment-charge-virtual-account.md",
+      "sha256": "0084888bdcf8cf2bdbe4138f8f15cee1ada4c3a36eca73a1c72cf6e442f0c271"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-fetch-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 5824,
+      "path": "content/reference/payment-fetch-api.md",
+      "sha256": "341af0bd6f7d6a9ffce86337d1e5ea057d589e12a074d60e6e8d48fbfe888d6c"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/payment-object.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 1995,
+      "path": "content/reference/payment-object.md",
+      "sha256": "c434897d993a6721b1e4a2795a1eefe379f05adf5feed884f57191e144f67419"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/qris-notif.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 16228,
+      "path": "content/reference/qris-notif.md",
+      "sha256": "dbdcf049a99ecf346503930a8552af9a452d902b3a18f28da757532047b17bad"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/refund-ewallet-payment-1.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 24860,
+      "path": "content/reference/refund-ewallet-payment-1.md",
+      "sha256": "67a4ead0a67cd0afecb9f6255a68d079ebcc95efd99e052d91ef929980c4e75e"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/refund-ewallet-payment.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 29788,
+      "path": "content/reference/refund-ewallet-payment.md",
+      "sha256": "366800f48c63f0217ad558fa1d6a2687b2af84898415d256416a7f6645f590cf"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/refund-fetch-by-id.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 6156,
+      "path": "content/reference/refund-fetch-by-id.md",
+      "sha256": "f23a5e878ba98d2af95d2f8acee1c6142d33beb21d43bd49768feb5077fd8f57"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/refund-fetch.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 13981,
+      "path": "content/reference/refund-fetch.md",
+      "sha256": "69470ff76e96a4c228e9c30dbad401ad813b52211a733d0a95fac33208a41e58"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/register-sub-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 7035,
+      "path": "content/reference/register-sub-account.md",
+      "sha256": "01d40b5f51f7548e2ce6baa4ee4e3fdfcca6d03ea4a4016601b6b1630fbddcbd"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/response-code-handling.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 10252,
+      "path": "content/reference/response-code-handling.md",
+      "sha256": "514975a5dd2d6e51e08bab6b2419c0f4b9c9b04c0daf026275c2a221e7551548"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/snap-bank-code-list.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 15606,
+      "path": "content/reference/snap-bank-code-list.md",
+      "sha256": "b60374145902088c18e93ee087e0ca4ae71e3580d24c5e1ec888f1aad1706d0c"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/snap-create-virtual-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 10605,
+      "path": "content/reference/snap-create-virtual-account.md",
+      "sha256": "5aa401aa516dd6f903b0f5c806a7e1400dfd040d86ad3186fcf5a5e9319c78ee"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/snap-payment-apis.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 11454,
+      "path": "content/reference/snap-payment-apis.md",
+      "sha256": "78ed2dfb8f66972e103b12e2a0c1b24ec76a627922ff075519957d2a5a115f64"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/transfer-bank-notify.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 8447,
+      "path": "content/reference/transfer-bank-notify.md",
+      "sha256": "9825c136b6ec8a637277fc16e373d260a83c2064b2b05ba4b59e6470cf9919e5"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/unbind-e-wallet-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 2344,
+      "path": "content/reference/unbind-e-wallet-account.md",
+      "sha256": "86ff7187d80fd31b075ea66f84ff3bff459ca02f1e427e0529293e8284c938d7"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/update-customer-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4598,
+      "path": "content/reference/update-customer-api.md",
+      "sha256": "8558d99fc99f345760e92fd57b743f49f822adc36b6b0a8659eab876549046a1"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/update-sub-account-api.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 3297,
+      "path": "content/reference/update-sub-account-api.md",
+      "sha256": "ca57ff22576bb7009e039309857b2c9d3699b99b73f796f654b576636b73cf35"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/update-sub-account-fees.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 9137,
+      "path": "content/reference/update-sub-account-fees.md",
+      "sha256": "8e73bc5679c87ec4c140d5dda14e14c44d153e23cb2b133573dede7c47b50ea3"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/update-virtual-account.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 28528,
+      "path": "content/reference/update-virtual-account.md",
+      "sha256": "4540e377eb69ef49d693b4d2e5a243c97883fe6b612a41e4849ec9a8d28eb378"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/verify-payments.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 4848,
+      "path": "content/reference/verify-payments.md",
+      "sha256": "910218fd4be1f8f37912a46b388c0eb0c1fe3bfb26c1bf6513fd77805258f490"
+    },
+    {
+      "url": "https://docs.durianpay.id/reference/virtual-accounts-patch-by-id.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "bytes": 13944,
+      "path": "content/reference/virtual-accounts-patch-by-id.md",
+      "sha256": "d9fb2ad19740e77f7668a26b6db14cd2cba475b293e2a49448d4506482bb2512"
+    }
+  ],
+  "assets_discovered": 51,
+  "assets_saved": 51,
+  "asset_failures": [],
+  "assets": [
+    {
+      "url": "https://files.readme.io/048a0fd139265c6cade1e111ca769a78a813d7c445aa2a51d931ddc222bf41cb-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 74764,
+      "path": "assets/files.readme.io/1aeb5efa00e0-048a0fd139265c6cade1e111ca769a78a813d7c445aa2a51d931ddc222bf41cb-image.png",
+      "sha256": "2d25ae83f3a945260cea7f7ad453d6ce3267f0fb63cd39ec59a1796c3cdd8323"
+    },
+    {
+      "url": "https://files.readme.io/1d3dc02e7a7d23734df214904295666a67c9551872cbbcaa861d25101986dd3f-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 47880,
+      "path": "assets/files.readme.io/5e612319c3b6-1d3dc02e7a7d23734df214904295666a67c9551872cbbcaa861d25101986dd3f-image.png",
+      "sha256": "70446be2a3ebc69b954317c4b4fed75db781f661f163d10ea269246795da35ea"
+    },
+    {
+      "url": "https://files.readme.io/1da14268c3d98cf54837193aa9a6ef711f4dc2c89fa12fbc42e323793d413600-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 208078,
+      "path": "assets/files.readme.io/dd229486a598-1da14268c3d98cf54837193aa9a6ef711f4dc2c89fa12fbc42e323793d413600-image.png",
+      "sha256": "011be13c594485fefb0c3c42838e551b9150b2c0db4081de8b52bd91939c235d"
+    },
+    {
+      "url": "https://files.readme.io/228a76691696c6b522ebb1fc8a56bc3d9e5a39abb2068367fba36e89ddda0313-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 86290,
+      "path": "assets/files.readme.io/81b32b405072-228a76691696c6b522ebb1fc8a56bc3d9e5a39abb2068367fba36e89ddda0313-image.png",
+      "sha256": "3818d65ca0720c966f2ae031e0eb06fb6bf3ebf0c5108657824a3fbc73bba355"
+    },
+    {
+      "url": "https://files.readme.io/255a59159a642d4288c4e668abacf3a3fdf67a944d2bd0f7515464f350e83f05-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7598,
+      "path": "assets/files.readme.io/58b1dea51da7-255a59159a642d4288c4e668abacf3a3fdf67a944d2bd0f7515464f350e83f05-image.png",
+      "sha256": "c99a49a67b1038e1d518705d761605378fbf908b15852a909ede76a10822fda5"
+    },
+    {
+      "url": "https://files.readme.io/33a14304d7f47338cd5ff3e54c49be734a423013aea6930ef70a0fd6fccde69f-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 131579,
+      "path": "assets/files.readme.io/a243a998ecf1-33a14304d7f47338cd5ff3e54c49be734a423013aea6930ef70a0fd6fccde69f-image.png",
+      "sha256": "c072ace7768e3adfc6998a71a2408062bd36718d78a69ebd30b883345413f3db"
+    },
+    {
+      "url": "https://files.readme.io/358d2d4fba4c035a34e18fd330a977f13b24ad69035b4bb491bb0c992878354d-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 123079,
+      "path": "assets/files.readme.io/b5f06484bf44-358d2d4fba4c035a34e18fd330a977f13b24ad69035b4bb491bb0c992878354d-image.png",
+      "sha256": "9a9303ef4276998f1536c750ffa233242c680e3df3d057ef63b2d735289eb4d2"
+    },
+    {
+      "url": "https://files.readme.io/3c4f80b12417f26e04b706ce8e6ae359dd2826730b7524e44a113e0c7de25c68-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 388338,
+      "path": "assets/files.readme.io/95920e1df703-3c4f80b12417f26e04b706ce8e6ae359dd2826730b7524e44a113e0c7de25c68-image.png",
+      "sha256": "b93c118f03ab6ab24e33f2b848e274c20f5301e7ed597e2f36ceaa6a950ba244"
+    },
+    {
+      "url": "https://files.readme.io/3d8d74352c98168aacf5fcf18f2ba9683b933a2b42ec78dc62bd8e935ffb6a7d-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 97932,
+      "path": "assets/files.readme.io/842b175b9e1f-3d8d74352c98168aacf5fcf18f2ba9683b933a2b42ec78dc62bd8e935ffb6a7d-image.png",
+      "sha256": "7944b03ec132b9de42159592074a8ac989a9630b3f5dbef969fc282859af30b4"
+    },
+    {
+      "url": "https://files.readme.io/3f7d06320ab1e17bec0cfecf7f5c1ada26b4f30cb4258020dbfd5d3d145e408d-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 27190,
+      "path": "assets/files.readme.io/0586bcf3309b-3f7d06320ab1e17bec0cfecf7f5c1ada26b4f30cb4258020dbfd5d3d145e408d-image.png",
+      "sha256": "76afa2538fdbce0a2626dd4d741327c12e923cbdbe7303838f05a585c86adca4"
+    },
+    {
+      "url": "https://files.readme.io/45c87bc61b3b14417769c96046813620bc92f309f64e7bfbf16ee70b08419adb-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 139914,
+      "path": "assets/files.readme.io/370feb3b8620-45c87bc61b3b14417769c96046813620bc92f309f64e7bfbf16ee70b08419adb-image.png",
+      "sha256": "dc31ff14508458ab0f390af1ea1d529338cbf7232419f890e4a1798cc7e15b41"
+    },
+    {
+      "url": "https://files.readme.io/463aeb431742caca1f67f37b535bbf25a2c963bea8b6067eced02b26b6b71d4d-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 49883,
+      "path": "assets/files.readme.io/170bf60265e0-463aeb431742caca1f67f37b535bbf25a2c963bea8b6067eced02b26b6b71d4d-image.png",
+      "sha256": "b8385a4f6bdac570693f8561dcd04f15c0e417cad1f6acd885679296bfe4b848"
+    },
+    {
+      "url": "https://files.readme.io/4a38b4f14dfb2a5312e1cbf92305162cf537b5b69f88b90fae2b9fe30437e928-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 52665,
+      "path": "assets/files.readme.io/f8421bd754ea-4a38b4f14dfb2a5312e1cbf92305162cf537b5b69f88b90fae2b9fe30437e928-image.png",
+      "sha256": "b5080264fc12110b91d775b9ef1d8fc4c404acbdfdc100054ca6b12f73495574"
+    },
+    {
+      "url": "https://files.readme.io/574a474aa61c548cb2c793dee6797d07fff3615d50cb523e3b420b19679426a9-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 175678,
+      "path": "assets/files.readme.io/0fcec415eb58-574a474aa61c548cb2c793dee6797d07fff3615d50cb523e3b420b19679426a9-image.png",
+      "sha256": "e19a4b70a1d9151fa10697995b81971245237b907087789181a20f7f5d1d165c"
+    },
+    {
+      "url": "https://files.readme.io/60569f62c521195334d8dc1a091fd422fd0f56139f36c49150a725fa0719ec18-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 104099,
+      "path": "assets/files.readme.io/c7eb0ce5daf9-60569f62c521195334d8dc1a091fd422fd0f56139f36c49150a725fa0719ec18-image.png",
+      "sha256": "881b212091de5d287d26b188baf0794e49aef702d090aa48d04f449f7c6c641d"
+    },
+    {
+      "url": "https://files.readme.io/6a81b3f81943562c0723d82765e7d0af463ae628bbd50e2f74acd8b396fc3ac3-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 25997,
+      "path": "assets/files.readme.io/5295f767fd56-6a81b3f81943562c0723d82765e7d0af463ae628bbd50e2f74acd8b396fc3ac3-image.png",
+      "sha256": "d205192cd879846cf74fd3acb950693ccda529eea2dcd6bba749c3f2d8f270b8"
+    },
+    {
+      "url": "https://files.readme.io/768c46dc55456b031ffe621747b6ea6b2731bf0c8b23ae0c99fe419f8cbcb520-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 206805,
+      "path": "assets/files.readme.io/eceefe354111-768c46dc55456b031ffe621747b6ea6b2731bf0c8b23ae0c99fe419f8cbcb520-image.png",
+      "sha256": "c068914154c3e3354b057b0c8a941bf98cabeddd74b2bcce081bdd8a6e7df848"
+    },
+    {
+      "url": "https://files.readme.io/770e9cbd42d091bba1f082fd771dbb438d8a31c3a44eae4cd68f1294fca3c7d5-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 201746,
+      "path": "assets/files.readme.io/c8e18af7ad45-770e9cbd42d091bba1f082fd771dbb438d8a31c3a44eae4cd68f1294fca3c7d5-image.png",
+      "sha256": "d5caa2a529aa03b00818c6faba8e913f006cdb2aecf277f7c3c2264851cef390"
+    },
+    {
+      "url": "https://files.readme.io/7800e59a2f4a19e33f9d9f04ccff3c299818ccf6faef4b3b5d909d2c8edefd80-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 150078,
+      "path": "assets/files.readme.io/bfe4c7e38a57-7800e59a2f4a19e33f9d9f04ccff3c299818ccf6faef4b3b5d909d2c8edefd80-image.png",
+      "sha256": "01cdcfe80710d7986e2643808649a5fd8ad5358f9893d601dd5689255a0637f6"
+    },
+    {
+      "url": "https://files.readme.io/7a3342500c1e966f1d3c724e774fb8e231a2ed9407e524b050924afbff6dfb51-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 183314,
+      "path": "assets/files.readme.io/45b8444249de-7a3342500c1e966f1d3c724e774fb8e231a2ed9407e524b050924afbff6dfb51-image.png",
+      "sha256": "f1d05e87090b36a78960321a248baa458ad08974f5bedbfbb2b5bc2fe1eee8eb"
+    },
+    {
+      "url": "https://files.readme.io/7cf5a4795a191fcbd38c4200996518361c62d46b6e8f8dc524200ec741313e3b-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 82451,
+      "path": "assets/files.readme.io/a2c9166b6b4d-7cf5a4795a191fcbd38c4200996518361c62d46b6e8f8dc524200ec741313e3b-image.png",
+      "sha256": "dc156e23265bd9523580c603e5411b1bc2fe1297ec1123717e2522e1860cb69e"
+    },
+    {
+      "url": "https://files.readme.io/891c39cf329768350a3f94b4fa993d408694fc6cf2a9cac019c498c6bddcb304-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 202798,
+      "path": "assets/files.readme.io/ebdeb70cbf1f-891c39cf329768350a3f94b4fa993d408694fc6cf2a9cac019c498c6bddcb304-image.png",
+      "sha256": "dabb479674ffe6a66c5b576ff0fa18b53efbc96e879693373967745c81bc8da9"
+    },
+    {
+      "url": "https://files.readme.io/89617874a25e8ac655f32d9022819ca447b01d51722db92a586303c5aae04175-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 57258,
+      "path": "assets/files.readme.io/9e071bb409fe-89617874a25e8ac655f32d9022819ca447b01d51722db92a586303c5aae04175-image.png",
+      "sha256": "720d33ad0b8f3f749b2cd768e851a3c7e58bf14ba5be68932029bf3e35d33c32"
+    },
+    {
+      "url": "https://files.readme.io/8b0531b8edacfd90d85bf98787feee3f6ef54aca544f11c72b06a477a1f2c7fc-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 21100,
+      "path": "assets/files.readme.io/11124ee5c3b4-8b0531b8edacfd90d85bf98787feee3f6ef54aca544f11c72b06a477a1f2c7fc-image.png",
+      "sha256": "a04b0feab3f679ff2032f9f41019fb076d4fd372822b9774b198a7e784c1b9f3"
+    },
+    {
+      "url": "https://files.readme.io/9a95d2d2d41d4f0df07e525293f613037d2da491c55ea0f9a32fb290c55a73d5-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 107885,
+      "path": "assets/files.readme.io/c8e10a0ebbf4-9a95d2d2d41d4f0df07e525293f613037d2da491c55ea0f9a32fb290c55a73d5-image.png",
+      "sha256": "3b7dd2562c4948430ab03a4fae2111d39b6ffb26a77977acaa983ebcb018e673"
+    },
+    {
+      "url": "https://files.readme.io/9aedb7848e61548c1ca3e279af62158968107ab1ede011e3c7fa3867dc59ff87-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 76517,
+      "path": "assets/files.readme.io/4f49df228ebb-9aedb7848e61548c1ca3e279af62158968107ab1ede011e3c7fa3867dc59ff87-image.png",
+      "sha256": "181ec4486927d9e44277ccd139a6a80679fc4a6b110c6b72686c5d118cc0a18e"
+    },
+    {
+      "url": "https://files.readme.io/9c0c62507b3c394c658aceac02df9244a2ef742dec2cc8c7cbd8087970d237ae-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 41492,
+      "path": "assets/files.readme.io/f4340c24d2f2-9c0c62507b3c394c658aceac02df9244a2ef742dec2cc8c7cbd8087970d237ae-image.png",
+      "sha256": "b2063e19dce735a78f1f020646608aff1a406362d81dbe42231a78769c266672"
+    },
+    {
+      "url": "https://files.readme.io/9d919ab7dc9ddc58410a0e1326a242064c054de0a237a300c03eaee01b9722c5-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 313742,
+      "path": "assets/files.readme.io/23a2d782cd56-9d919ab7dc9ddc58410a0e1326a242064c054de0a237a300c03eaee01b9722c5-image.png",
+      "sha256": "f0fa5af30a67f3bab76af071e9bb79ebc12b399e6acac7a3bb8cdcb553dc5a7e"
+    },
+    {
+      "url": "https://files.readme.io/9e47bd14f23986295e8db87d65b42f9de2b21df4fc0fccd5ce100af17b34f854-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 110129,
+      "path": "assets/files.readme.io/cbf4332785e7-9e47bd14f23986295e8db87d65b42f9de2b21df4fc0fccd5ce100af17b34f854-image.png",
+      "sha256": "5bd0131ca99557898cc72927697d9c0251944e516ebbd8a6dab0d952519221d3"
+    },
+    {
+      "url": "https://files.readme.io/9f51239d0dd315456408890b203617190c4a26ca570280f09c258bd67c22fbe4-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 468915,
+      "path": "assets/files.readme.io/1ca9389230ef-9f51239d0dd315456408890b203617190c4a26ca570280f09c258bd67c22fbe4-image.png",
+      "sha256": "aa73bc5cc9141181848dd570ff19f88b9b38e67a8431f7445e8bcfd0b24adc11"
+    },
+    {
+      "url": "https://files.readme.io/ab695d8b62eb350196c1ce109898c35802efd1668dd6f08e15c6044d28305680-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 167854,
+      "path": "assets/files.readme.io/71c067c4fd09-ab695d8b62eb350196c1ce109898c35802efd1668dd6f08e15c6044d28305680-image.png",
+      "sha256": "f2b8772652579327cac2be927574f89096ae8ccbfb29b21eb755c27b8391d06c"
+    },
+    {
+      "url": "https://files.readme.io/b06fbcfb83c4caa5e592612251e6a0633e9f1fab8a92633bc85219ad206c8cab-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 190977,
+      "path": "assets/files.readme.io/e981dcd077fa-b06fbcfb83c4caa5e592612251e6a0633e9f1fab8a92633bc85219ad206c8cab-image.png",
+      "sha256": "eb5d0e7b45c8dbf6010183a277604c6c8eb55afc2ec09d3a6998969fe39b62a8"
+    },
+    {
+      "url": "https://files.readme.io/b1d0c573c864ee623c971a4f8ff4f5495ac7472620e1b34583133c4447c73e63-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 143319,
+      "path": "assets/files.readme.io/3024cf5916a8-b1d0c573c864ee623c971a4f8ff4f5495ac7472620e1b34583133c4447c73e63-image.png",
+      "sha256": "9743d8fbd997c695096845cccecfdc3e095ba7a57c93300884a6d8fbfe60aa5a"
+    },
+    {
+      "url": "https://files.readme.io/b328cb9facf00eb427756b34ed00838c89dfc9d610c3e01c204b3bbfff86d4bc-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 75326,
+      "path": "assets/files.readme.io/4245884e0f46-b328cb9facf00eb427756b34ed00838c89dfc9d610c3e01c204b3bbfff86d4bc-image.png",
+      "sha256": "c018a0ae70d7a4d295fba792b3c84927d3d753356761be269002c0e4b2c6a96c"
+    },
+    {
+      "url": "https://files.readme.io/b4ed1fe9f5103325ba1e0df35ebc311f68ff45c65e04e951f3250b90a30c68b7-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 157220,
+      "path": "assets/files.readme.io/d88e08191fe1-b4ed1fe9f5103325ba1e0df35ebc311f68ff45c65e04e951f3250b90a30c68b7-image.png",
+      "sha256": "b1c2b56df4ce32b255f8d228f0da93f33cb2598846fd0c7e06d72397ec2a7c07"
+    },
+    {
+      "url": "https://files.readme.io/b4f7168004782d47a6fe85cbf292474cb242a701f4505f720fb612e5d5af2c77-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 140930,
+      "path": "assets/files.readme.io/975a3d71dbd0-b4f7168004782d47a6fe85cbf292474cb242a701f4505f720fb612e5d5af2c77-image.png",
+      "sha256": "fde6e60b914a8a2c2afdc4afe5062df793fbc35ac514da48bff82367e9ed3939"
+    },
+    {
+      "url": "https://files.readme.io/baa953d324c0240b0a84e9c6d223c5187129cdbcc6e52137e8ad0350eaf031f4-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 74764,
+      "path": "assets/files.readme.io/18755fdb300e-baa953d324c0240b0a84e9c6d223c5187129cdbcc6e52137e8ad0350eaf031f4-image.png",
+      "sha256": "2d25ae83f3a945260cea7f7ad453d6ce3267f0fb63cd39ec59a1796c3cdd8323"
+    },
+    {
+      "url": "https://files.readme.io/c022d85d0bf5af491a66a0a621bd5ad41f91b746941e0a67e75b74c5555e018f-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 247536,
+      "path": "assets/files.readme.io/1b73d53b0beb-c022d85d0bf5af491a66a0a621bd5ad41f91b746941e0a67e75b74c5555e018f-image.png",
+      "sha256": "516b3dae9175dafc82d1602c00a43ca9b974789ae0757e50fc6e74a1d511fbcc"
+    },
+    {
+      "url": "https://files.readme.io/c127948a8a4fd5a252e46098205773374f5322cb7921cdfd0422043a54f45c53-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 120770,
+      "path": "assets/files.readme.io/3c4f0752d97a-c127948a8a4fd5a252e46098205773374f5322cb7921cdfd0422043a54f45c53-image.png",
+      "sha256": "96549f9a9ce07b97fa87d6e09c03c2e9ad0fee69c1a77ce1daa49a1123b2cc04"
+    },
+    {
+      "url": "https://files.readme.io/c92118ba784a876dd2285dd7a2ef70c96e6c30119c26545188c988efc77436ba-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 160867,
+      "path": "assets/files.readme.io/a43d2b1be519-c92118ba784a876dd2285dd7a2ef70c96e6c30119c26545188c988efc77436ba-image.png",
+      "sha256": "13d86853098da520736c9a82357c21d5385265ff8ce5b135a1c71a8ef4cb52c6"
+    },
+    {
+      "url": "https://files.readme.io/cc64793ff1384e241bfabfc45fb18e21bef06cbcaf354cff84214214b191ef72-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 198328,
+      "path": "assets/files.readme.io/3b34f64c58b0-cc64793ff1384e241bfabfc45fb18e21bef06cbcaf354cff84214214b191ef72-image.png",
+      "sha256": "a37da93b6b0cd98eb4812ee69d61ade0d70f4fd8618673f8c0d89ccfafbaa775"
+    },
+    {
+      "url": "https://files.readme.io/ced5c8844e788c502a0609b6d963dfeb5551a482929c008b52bacd3424a4cba2-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 25542,
+      "path": "assets/files.readme.io/df05f19a03fd-ced5c8844e788c502a0609b6d963dfeb5551a482929c008b52bacd3424a4cba2-image.png",
+      "sha256": "27fa083a900ad2110250632a40848158b6d4f7b2c1499252b0f3a815107d648b"
+    },
+    {
+      "url": "https://files.readme.io/d1cedf07abb45c7b8b9a9f195f65ace9587980afc8ae912261292355957ef305-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 43428,
+      "path": "assets/files.readme.io/7b5bd31f8a2b-d1cedf07abb45c7b8b9a9f195f65ace9587980afc8ae912261292355957ef305-image.png",
+      "sha256": "7a0e9bbf873672175ba9579e3eb4d848c8b27547cfab46bf050425b22ba54f37"
+    },
+    {
+      "url": "https://files.readme.io/d8295b964a54f382012aeef38befe6b53efcc6ea0dc2c197084b4256ae4fbe64-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 270566,
+      "path": "assets/files.readme.io/320616ed406b-d8295b964a54f382012aeef38befe6b53efcc6ea0dc2c197084b4256ae4fbe64-image.png",
+      "sha256": "054aad00b30e5e4c53a9166b75a2f58721bfbef7203b58d4d51751270321aa6c"
+    },
+    {
+      "url": "https://files.readme.io/d8f4bc647af8d6cb89bb2c4db78942e9ee999fc7eef8892d56b8d079afe80682-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 107486,
+      "path": "assets/files.readme.io/1a89bbe571d6-d8f4bc647af8d6cb89bb2c4db78942e9ee999fc7eef8892d56b8d079afe80682-image.png",
+      "sha256": "48bb9c00afcffc4188d8d322e09a2a223c5ec671e37097ea426c03aaa7754a7a"
+    },
+    {
+      "url": "https://files.readme.io/e1e4b1cf3f3543b51f82b608808fd782c3d5f97b6ef6f9c0e604e4a1743d3f56-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 42734,
+      "path": "assets/files.readme.io/56720a704ecc-e1e4b1cf3f3543b51f82b608808fd782c3d5f97b6ef6f9c0e604e4a1743d3f56-image.png",
+      "sha256": "50450c46f7fe18f91aec1b01401675ce0157f75af501e05b3c523d3d387d6c27"
+    },
+    {
+      "url": "https://files.readme.io/e2a450db0ccb95c30403f926de3113384da878ca5b9c461ac9762f28129b7345-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 83298,
+      "path": "assets/files.readme.io/6ddb1d4b1678-e2a450db0ccb95c30403f926de3113384da878ca5b9c461ac9762f28129b7345-image.png",
+      "sha256": "696f00e7b9c47d807b32383e1058079b77d5d8dd28c69a882ecd858d2ab89bc4"
+    },
+    {
+      "url": "https://files.readme.io/e47676e6a5e554cedb1a537521151caddcfaf4c97710ba12bf3fa980150a015c-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 69241,
+      "path": "assets/files.readme.io/821f3aec9717-e47676e6a5e554cedb1a537521151caddcfaf4c97710ba12bf3fa980150a015c-image.png",
+      "sha256": "8b7fb8763004093265e9c43c338bc3c6ac39a25996c167fd4d64a9f64a3beabd"
+    },
+    {
+      "url": "https://files.readme.io/e6f09cc23dd884684f248a933c7c5f10fa59b949f9f32fd763d604ca06d2951f-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 20178,
+      "path": "assets/files.readme.io/8fc983822792-e6f09cc23dd884684f248a933c7c5f10fa59b949f9f32fd763d604ca06d2951f-image.png",
+      "sha256": "4cf6a2c51ee1a9a3c3f05d632d72471ae077984da1f7de443401185a449ece87"
+    },
+    {
+      "url": "https://files.readme.io/ef7cd9665e6d8cc5d3d5f76bb381e669e5947a58140d60aff3867cfe925283e2-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 52915,
+      "path": "assets/files.readme.io/152f8a214200-ef7cd9665e6d8cc5d3d5f76bb381e669e5947a58140d60aff3867cfe925283e2-image.png",
+      "sha256": "a261737f7d26e95c031400fd300bde5b880bee875c6cf133a11d4849b689ed62"
+    },
+    {
+      "url": "https://files.readme.io/f574360b340306db3f0655219f220fbf38a585d5f1ca9bc741470a20d36ad6b0-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 97018,
+      "path": "assets/files.readme.io/1f88f7cb017b-f574360b340306db3f0655219f220fbf38a585d5f1ca9bc741470a20d36ad6b0-image.png",
+      "sha256": "a4143a7a7435df31c1c008126efbb1268280a24815f5773deda3a775f4b78dc6"
+    }
+  ]
+}
